@@ -17,5 +17,5 @@ Anaconda can be downloaded from [Here](anaconda.org) and can be installed like a
 The document *Installing Python using Anaconda* provides instructions for installing Python and the Jupyter Notebook using Anaconda.
 
 ## Clone 
-Clone this repo to your local machine using https://github.com/bhushan22patil/Movie-Insights
+Clone this repo to your local machine using https://github.com/bhushan22patil/Movie-Insights/blob/master/Movies_Insight_Bhushan_Patil.ipynb
 Provide location of the dataset from your local machine.
